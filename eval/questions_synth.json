@@ -1,0 +1,322 @@
+[
+  {
+    "id": "s01",
+    "question": "When registering a high-risk AI system in the EU database, which categories of high-risk systems are exempt from having to upload electronic instructions for use?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      141
+    ],
+    "reference_answer": "Electronic instructions for use must be submitted for registration, except for high-risk AI systems in law enforcement and in migration, asylum and border control management, i.e. the areas in Annex III points 1, 6 and 7."
+  },
+  {
+    "id": "s02",
+    "question": "Under what conditions can the Commission add or change the list of high-risk AI use-cases through delegated acts, and what factors must it weigh when judging whether the risk is comparable to systems already listed?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      19
+    ],
+    "reference_answer": "The Commission may amend Annex III by adding or modifying high-risk use-cases when the AI systems are intended for use in an area already listed in Annex III and pose a risk of harm to health and safety or an adverse impact on fundamental rights equivalent to or greater than that of the systems already listed. In assessing that risk it must consider criteria such as the intended purpose, the extent of actual or likely use, the nature and amount of data processed (especially special categories of personal data), the degree of autonomy and the possibility of human override, and the extent to which the system has already caused harm or raised significant concerns, e.g. via reports or documented allegations to national competent authorities."
+  },
+  {
+    "id": "s03",
+    "question": "Which bodies automatically hold seats on the AI advisory forum, and how long can ordinary members and co-chairs serve?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      83
+    ],
+    "reference_answer": "The Fundamental Rights Agency, ENISA, CEN, CENELEC and ETSI are permanent members of the advisory forum. Ordinary members serve a two-year term that may be extended by up to no more than four years, while the two co-chairs serve two years, renewable once."
+  },
+  {
+    "id": "s04",
+    "question": "If a high-risk AI system already holds a cybersecurity certificate under the EU Cybersecurity Act scheme, does it automatically satisfy the AI Act's cybersecurity requirements?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      52
+    ],
+    "reference_answer": "Not automatically. A high-risk AI system certified, or with a statement of conformity issued, under a cybersecurity scheme pursuant to Regulation (EU) 2019/881 (with references published in the Official Journal) is presumed to comply with the Article 15 cybersecurity requirements only insofar as the certificate or statement, or parts of it, cover those requirements."
+  },
+  {
+    "id": "s05",
+    "question": "How long can real-world testing of a high-risk AI system run before the provider has to do anything extra, and what must it do to prolong the testing?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      75
+    ],
+    "reference_answer": "Real-world testing may last no longer than necessary to meet its objectives and in any case no more than six months. It can be extended by another six months if the provider or prospective provider notifies the market surveillance authority beforehand and explains why the extension is needed."
+  },
+  {
+    "id": "s06",
+    "question": "By what date must the Commission publish guidance on aligning the high-risk AI requirements on risk management, technical documentation and quality management with sectoral product legislation in Section A of Annex I, and who must it involve and consider while drafting?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      114
+    ],
+    "reference_answer": "Guidelines on the practical implementation of Article 8(2), Article 9(10) and Article 17(3) in relation to the Union harmonisation legislation in Section A of Annex I must be published by 1 August 2027. The Commission must involve the Board and pay particular attention to the needs of SMEs (including start-ups), SMCs, local public authorities and the sectors most likely to be affected."
+  },
+  {
+    "id": "s07",
+    "question": "Does an AI tool that scores individuals' creditworthiness count as high-risk, and is there any carve-out for fraud-related uses?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      132
+    ],
+    "reference_answer": "Yes, AI systems intended to evaluate the creditworthiness of natural persons or establish their credit score are listed as high-risk. The exception is AI systems used to detect financial fraud."
+  },
+  {
+    "id": "s08",
+    "question": "How long must a provider keep the automatically generated logs from its high-risk AI system, and how does this differ if the provider is a financial institution?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      31
+    ],
+    "reference_answer": "Providers must keep the logs, to the extent they control them, for a period appropriate to the system's intended purpose and at least six months, unless other Union or national law (e.g., on personal data protection) provides otherwise. Providers that are financial institutions under Union financial services law must keep the logs as part of the documentation maintained under that financial services law."
+  },
+  {
+    "id": "s09",
+    "question": "If our AI system handles personal data, what must the EU declaration of conformity say about data protection law?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      136
+    ],
+    "reference_answer": "Where the AI system involves processing personal data, the declaration must include a statement that the system complies with Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680."
+  },
+  {
+    "id": "s10",
+    "question": "When EU authorities adopt delegated or implementing acts under the railway interoperability directive for AI systems that act as safety components, which AI Act requirements must they take into account?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      122
+    ],
+    "reference_answer": "They must take into account the requirements in Chapter III, Section 2 of Regulation (EU) 2024/1689 (the AI Act). This is done through a new paragraph 12 added to Article 5 of Directive (EU) 2016/797, which covers both delegated acts under paragraph 1 and implementing acts under paragraph 11."
+  },
+  {
+    "id": "s11",
+    "question": "When personal data is used inside an AI regulatory sandbox, what rules apply to where the data is kept, whether it can be shared, and what happens to it once the provider's participation ends?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      73
+    ],
+    "reference_answer": "Personal data must be held in a functionally separate, isolated and protected processing environment controlled by the prospective provider, accessible only to authorised persons. Originally collected data may be shared further only in line with Union data protection law, and personal data created in the sandbox cannot be shared outside it. The data must be protected with appropriate technical and organisational measures and deleted when sandbox participation ends or its retention period is reached."
+  },
+  {
+    "id": "s12",
+    "question": "What reporting duties do national authorities have toward the AI Office and the Board once an AI regulatory sandbox is running, and must those reports be made public?",
+    "type": "answerable",
+    "source": "eu_ai_act.pdf",
+    "expected_pages": [
+      70
+    ],
+    "reference_answer": "National competent authorities must send annual reports to the AI Office and the Board starting one year after the sandbox is established and every year until it ends, plus a final report. The reports cover progress and results, including best practices, incidents, lessons learnt and recommendations. The authorities must make the annual reports or abstracts of them publicly available online."
+  },
+  {
+    "id": "s13",
+    "question": "How are organizations expected to check whether adopting NIST's AI risk framework has actually helped them, and what kinds of benefits should they anticipate?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      24
+    ],
+    "reference_answer": "Organizations are encouraged to periodically evaluate whether the framework has improved their ability to manage AI risks, covering policies, processes, practices, implementation plans, indicators, measurements, and expected outcomes. NIST plans to collaborate with others on metrics, methodologies, and goals for this evaluation. Expected benefits include better risk governance and documentation processes, explicit go/no-go deployment decision processes, stronger accountability, improved risk-focused culture, better information sharing, and greater TEVV capacity."
+  },
+  {
+    "id": "s14",
+    "question": "If we've already set up governance outcomes, in what sequence does the NIST AI RMF suggest we tackle the remaining functions, and do we have to follow a strict order?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      26
+    ],
+    "reference_answer": "No strict order is required; functions may be performed in any order across the AI lifecycle as adds value, provided a governance structure exists. After establishing GOVERN outcomes, most users would start with MAP and then continue to MEASURE or MANAGE, with the process remaining iterative and cross-referenced between functions."
+  },
+  {
+    "id": "s15",
+    "question": "Who does the NIST AI RMF refer to as \"AI actors,\" and what definition of that term does it rely on?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      7
+    ],
+    "reference_answer": "The AI RMF uses \"AI actors\" to mean organizations and individuals who are equipped by the Framework to increase the trustworthiness of AI systems. It adopts the OECD definition: those who play an active role in the AI system lifecycle, including organizations and individuals that deploy or operate AI."
+  },
+  {
+    "id": "s16",
+    "question": "Which lifecycle phase do AI Deployment actors work in, and what kinds of tasks are they responsible for?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      40
+    ],
+    "reference_answer": "AI Deployment tasks occur during the Task and Output phase of the lifecycle. Deployment actors make contextual decisions about how the system is used so it can be put into production, including piloting the system, checking compatibility with legacy systems, ensuring regulatory compliance, managing organizational change, and evaluating user experience."
+  },
+  {
+    "id": "s17",
+    "question": "If a team's evaluation shows that improving one trustworthiness measure, like fairness, worsens another, does the analysis tell them how to resolve the conflict, and what should guide the resolution?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      18
+    ],
+    "reference_answer": "No. The analyses can show that tradeoffs exist and how large they are, but they do not say how to navigate them. The resolution depends on the values at play in the specific context and should be transparent and appropriately justifiable."
+  },
+  {
+    "id": "s18",
+    "question": "Which part of the AI RMF mapping guidance covers establishing how human oversight of an AI system should work, and what does it require in relation to organizational policies?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      32
+    ],
+    "reference_answer": "Human oversight is addressed in MAP 3.5, which requires that processes for human oversight be defined, assessed, and documented in accordance with organizational policies from the GOVERN function."
+  },
+  {
+    "id": "s19",
+    "question": "Why can't an organization simply optimize each trustworthiness property of its AI system separately, and which properties does the framework say may conflict with one another?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      17
+    ],
+    "reference_answer": "Addressing the characteristics individually won't ensure trustworthiness because tradeoffs are usually involved, not all characteristics apply in every setting, and their importance varies by situation; trustworthiness is only as strong as its weakest characteristic. Examples of tradeoffs include interpretability vs. privacy, predictive accuracy vs. interpretability, and privacy-enhancing techniques reducing accuracy under conditions like data sparsity."
+  },
+  {
+    "id": "s20",
+    "question": "In the NIST AI RMF's depiction of trustworthiness characteristics, which characteristic is treated as the foundational prerequisite, and which one is drawn as a vertical box spanning all the others?",
+    "type": "answerable",
+    "source": "nist_ai_rmf.pdf",
+    "expected_pages": [
+      5
+    ],
+    "reference_answer": "Valid & Reliable is shown as the base because it is a necessary condition of trustworthiness. Accountable & Transparent is shown as a vertical box because it relates to all the other characteristics."
+  },
+  {
+    "id": "s21",
+    "question": "What contract elements should we look for when reviewing vendor agreements for critical generative AI services, to avoid unexpected liability or unauthorized data use by the vendor?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      26
+    ],
+    "reference_answer": "Review vendor contracts to avoid arbitrary or capricious termination of critical GAI technologies or services and non-standard terms that could amplify or defer liability or enable secondary data use. Consider clear assignment of liability and responsibility for incidents, how the GAI system changes over time (fine-tuning, drift, decay), notification and disclosure of serious incidents from third-party data and systems, and SLAs covering incident response, response times, and availability of critical support."
+  },
+  {
+    "id": "s22",
+    "question": "Why is it especially important to document and review third-party inputs and plugins when planning for disclosure of generative AI incidents?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      57
+    ],
+    "reference_answer": "Because LLM inputs and content delivered through plugins are often distributed, with inconsistent or insufficient access control. Documenting and reviewing these components helps AI Actors in the context of incident disclosure."
+  },
+  {
+    "id": "s23",
+    "question": "What should an organization's acceptable use policy cover for generative AI interfaces such as chatbots, particularly regarding which requests the system should decline?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      22
+    ],
+    "reference_answer": "Organizations should define acceptable use policies for GAI interfaces, modalities, and human-AI configurations (e.g., chatbots and decision-making tasks). These policies should include criteria for the kinds of queries GAI applications should refuse to respond to."
+  },
+  {
+    "id": "s24",
+    "question": "What does current research say about whether large language models meaningfully help people plan biological threats compared with ordinary web searching, and what limits remain on producing such agents?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      9
+    ],
+    "reference_answer": "Recent studies found that LLM outputs on biological threat creation and attack planning gave minimal help beyond traditional search engine queries, so the LLMs tested did not substantially raise the operational likelihood of an attack. Physically synthesizing, producing, and using chemical or biological agents would still require expertise, supporting materials, and infrastructure."
+  },
+  {
+    "id": "s25",
+    "question": "What should we do when we adapt a generative AI model to a different application area, and how can we tell if our system is being used somewhere our earlier risk assumptions no longer apply?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      30
+    ],
+    "reference_answer": "Re-evaluate risks whenever the GAI model is adapted to a new domain. Also establish warning systems that detect when the system is being used in a new domain where earlier assumptions about context of use or mapped risks, such as security and safety, may no longer hold."
+  },
+  {
+    "id": "s26",
+    "question": "What kinds of information can provenance metadata hold for AI-generated content, and which techniques are commonly used to track provenance?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      55
+    ],
+    "reference_answer": "Provenance metadata can include information about GAI model developers or content creators, date/time of creation, location, modifications, and sources, and it can be tracked for text, images, video, audio, and underlying datasets. Well-known provenance tracking techniques include digital watermarking, metadata recording, digital fingerprinting, and human authentication."
+  },
+  {
+    "id": "s27",
+    "question": "What is the difference between direct and indirect prompt injection attacks against generative AI systems, and what harms have researchers shown from the indirect type?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      15
+    ],
+    "reference_answer": "In direct prompt injection, attackers craft malicious prompts and enter them straight into the GAI system. In indirect prompt injection, adversaries remotely exploit LLM-integrated applications by injecting prompts into data likely to be retrieved, and researchers have shown this can steal proprietary data or run malicious code remotely on a machine."
+  },
+  {
+    "id": "s28",
+    "question": "What causes model collapse in generative AI, and how can it worsen homogenized outputs?",
+    "type": "answerable",
+    "source": "nist_genai_profile.pdf",
+    "expected_pages": [
+      13
+    ],
+    "reference_answer": "Model collapse can occur when model training relies too heavily on synthetic data, causing data points to disappear from the distribution of the new model's outputs. It threatens the model's overall robustness and can lead to homogenized outputs, including by amplifying any homogenization present in the model that generated the synthetic training data."
+  },
+  {
+    "id": "s29",
+    "question": "Within the OECD's catalogue of legal instruments, which types are legally binding, and which are only a political commitment that members are expected to try to implement?",
+    "type": "answerable",
+    "source": "oecd_ai_principles.pdf",
+    "expected_pages": [
+      12
+    ],
+    "reference_answer": "Decisions are legally binding on all Members except those that abstain at adoption, and International Agreements are legally binding on the Parties. Recommendations are not legally binding; they represent a political commitment, with an expectation that Adherents will do their best to implement them."
+  },
+  {
+    "id": "s30",
+    "question": "How does the OECD AI Recommendation define an AI system, and does it say anything about how autonomous such systems are?",
+    "type": "answerable",
+    "source": "oecd_ai_principles.pdf",
+    "expected_pages": [
+      7
+    ],
+    "reference_answer": "An AI system is a machine-based system that, for explicit or implicit objectives, infers from the input it receives how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. AI systems differ in their levels of autonomy and adaptiveness after deployment."
+  },
+  {
+    "id": "s31",
+    "question": "What does the guidance say AI actors should do regarding traceability across the AI lifecycle, and what kinds of risks should their ongoing risk management cover?",
+    "type": "answerable",
+    "source": "oecd_ai_principles.pdf",
+    "expected_pages": [
+      9
+    ],
+    "reference_answer": "AI actors should ensure traceability for datasets, processes and decisions made during the AI system lifecycle, so outputs can be analysed and inquiries answered, appropriate to context and state of the art. They should apply systematic, ongoing risk management at each lifecycle phase, covering risks such as harmful bias, human rights (including safety, security and privacy), and labour and intellectual property rights."
+  },
+  {
+    "id": "s32",
+    "question": "What mechanisms are governments encouraged to use to let AI systems be tested in a controlled setting and then scaled up, and what approach to governance objectives should accompany this?",
+    "type": "answerable",
+    "source": "oecd_ai_principles.pdf",
+    "expected_pages": [
+      10
+    ],
+    "reference_answer": "Governments should consider using experimentation to provide a controlled environment in which AI systems can be tested and scaled up, as appropriate. They should also adopt outcome-based approaches that give flexibility in achieving governance objectives and co-operate within and across jurisdictions to promote interoperable governance and policy environments."
+  }
+]
